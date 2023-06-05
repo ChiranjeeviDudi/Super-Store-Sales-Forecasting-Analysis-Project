@@ -1,1 +1,2 @@
-# Super Store -"Saless Forecasting Analysis Project"
+# Super Store -"Sales Forecasting Analysis Project"                                                                                                                 
+# 
