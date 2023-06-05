@@ -3,6 +3,6 @@ OBJECTIVE : This project is developed for the purpose of contributing the succes
                                                                                                                                                                      
 This objective includes the following operations like :                                                                                                              
 -> Dashboard Creation : Identifying the KPI's, design and intuitive and visually appealing dashboard, adding interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.                                                                                                     
--> Data Analysis : Provide valuable insights to the business entities regarding the effectiveness of their sales strategies through the vizualization charts.         
+-> Data Analysis : Provide valuable insights to the business entities regarding the effectiveness of their sales strategies through the visualization charts.         
 -> Sales Forecasting : Leveraging historic data and time-series to generate Sales Forecasting for next month i.e January month.                                      
 -> Actionable Insights and Recommendations : The end goal is to share valuable insights and actionable information that can drive strategic decision-making and supports the supermarket's goals for growth, efficiency and costumer satisfaction.
