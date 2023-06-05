@@ -1,3 +1,3 @@
 # Super Store -"Sales Forecasting Analysis Project"                                                                                                                 
-# OBJECTIVE :                                                                                                                                                         
+OBJECTIVE :                                                                                                                                                         
 This project is developed for the purpose of contributing the success of business by utilizing the data analysis techniques, specifically focusing on time series analysis, to provide valuable insights to the Super Store sales and also performing accurate sales forecasting analysis.
