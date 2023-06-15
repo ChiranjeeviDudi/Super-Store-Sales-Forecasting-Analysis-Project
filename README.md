@@ -1,5 +1,6 @@
 # Super Store -"Sales Forecasting Analysis Project"                                                                                                                   
-https://www.novypro.com/profile_projects/chiranjeevi-dudi use this link and access my project
+https://www.novypro.com/profile_projects/chiranjeevi-dudi use this link and access my project                                                                         
+
 OBJECTIVE : This project is developed for the purpose of contributing the success of business by utilizing the data analysis techniques, specifically focusing on time series analysis, to provide valuable insights to the Super Store sales and also performing accurate sales for future sales forecasting analysis.                                                                                                                                                              
 This objective includes the following operations like :                                                                                                              
 -> Dashboard Creation : Identifying the KPI's, design and intuitive and visually appealing dashboard, adding interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.                                                                                                     
